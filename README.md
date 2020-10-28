@@ -6,9 +6,9 @@ This project was made with React and makes calls to https://api.collegefootballd
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` 
 
-Runs the app in the development mode.\
+Runs the app in the development mode. Make sure CORS is enabled in browser
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
