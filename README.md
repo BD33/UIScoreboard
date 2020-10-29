@@ -1,4 +1,4 @@
-# College Football Scoreboard
+# Champions League Scoreboard
 
 This project was made with React and makes calls to https://api.collegefootballdata.com/api/docs/?url=/api-docs.json#/games/getGames for games and scores.
 
