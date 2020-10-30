@@ -2,6 +2,8 @@
 
 This project was made with React and makes calls to http://api.football-data.org for standings and scores.
 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
