@@ -1,6 +1,6 @@
 # Champions League Scoreboard
 
-This project was made with React and makes calls to https://api.collegefootballdata.com/api/docs/?url=/api-docs.json#/games/getGames for games and scores.
+This project was made with React and makes calls to http://api.football-data.org for standings and scores.
 
 ## Available Scripts
 
